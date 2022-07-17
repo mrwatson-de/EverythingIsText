@@ -1,7 +1,9 @@
+![EverythingIsTextTextTextTextText](EverythingIsTextTextTextTextText.png)
 # EverythingIsText
-In FileMaker Everything is Text
+"Utter Garbage!" MrWatson-de
 
-Nooooooot!
+
+In FileMaker Everything is Text - Nooooooot!
 
 See the example file.
 
